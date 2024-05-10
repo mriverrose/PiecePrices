@@ -1,0 +1,52 @@
+rank,group,brand,turnover,units,whs_share,whs_val,rtl_val,rtl_share,avg_rtl_price
+1,Rolex,Rolex,10100,1240000,100,10100,15150,0.303,12218
+2,Richemont,Cartier Watches,3100,660000,40,2448,3770,0.075,5712
+3,Swatch,Omega,2600,570000,63,2204,3747,0.075,6573
+4,Audemars Piguet,Audemars Piguet,2350,51000,12,1728,2471,0.049,48456
+5,Patek Philippe,Patek Philippe,2050,70000,85,1958,2799,0.056,39990
+6,Richard Mille,Richard Mille,1540,5600,0,1077,1540,0.031,275000
+7,Swatch,Longines,1110,1600000,90,1069,1699,0.034,1062
+8,Richemont,Vacheron Constantin,1097,35000,40,853,1356,0.027,38740
+9,Breitling,Breitling,870,178000,55,709,1205,0.024,6769
+10,Swatch,Tissot,825,3100000,80,759,1267,0.025,409
+11,Richemont,IWC,726,137000,55,605,962,0.019,7019
+12,LVMH,Hublot,670,52000,70,595,947,0.019,18206
+13,Swatch,Swatch,660,5800000,40,513,816,0.02,141
+14,Richemont,Jaeger-LeCoultre,641,97000,55,534,849,0.017,8753
+15,LVMH,TAG Heuer,615,390000,70,547,869,0.017,2228
+16,Hermes,Hermes,593,79000,10,395,628,0.01,7949
+17,Rolex,Tudor,545,255000,76,496,789,0.02,3096
+18,Richemont,Officine Panerai,520,67000,65,452,719,0.014,10738
+19,LVMH,Bulgari,445,58000,80,412,655,0.01,11294
+20,Chopard,Chopard,420,42000,75,381,606,0.01,14425
+21,Richemont,Van Cleef & Arpels Watches,410,13500,60,349,555,0.01,41121
+22,Chanel,Chanel,400,75000,90,385,612,0.01,8165
+23,Swatch,Blancpain,390,28000,73,351,558,0.01,19928
+24,Richemont,Piaget,278,19000,55,232,368,0.01,19380
+25,Richemont,Lange & Sohne,270,6000,10,180,286,0.01,47655
+26,Franck Muller,Franck Muller,230,21000,90,221,352,0.01,16768
+27,Swatch,Rado,220,172000,100,220,350,0.01,2034
+28,Swatch,Breguet,210,20000,78,193,307,0.006,15332
+29,Richemont,Montblanc,200,75000,70,178,283,0.01,3768
+30,Swatch,Hamilton,180,138000,90,173,276,0.01,1997
+31,Swatch,Mido,170,123000,75,154,245,0,1994
+32,LVMH,Louis Vuitton,162,35000,0,102,162,0,4629
+33,Jacob & Co.,Jacob & Co.,146,2750,100,146,234,0,84945
+34,LVMH,Zenith,138,12000,50,112,179,0,14893
+35,Kering,Gucci,124,238000,85,117,185,0,779
+36,Swatch,Harry Winston,111,8500,5,72,114,0,13444
+37,F.P.Journe,F. P. Journe,98,1800,90,95,142,0,78944
+38,H. Moser & Cie,H. Moser & Cie,93,3500,65,81,129,0,36934
+39,Swatch,Certina,85,155000,90,82,130,0,840
+40,Sowind,Girard Perregaux,82,9500,100,82,148,0,15537
+41,Sowind,Ulysse Nardin,78,7000,95,76,137,0,19611
+42,Richemont,Baume & Mercier,77,90000,90,74,118,0,1310
+43,Oris,Oris,75,52000,85,71,113,0,2166
+44,Citizen,Frederique Constant,70,63000,90,67,107,0,1701
+45,Richemont,Roger Dubuis,67,6600,70,60,95,0,14344
+46,Parmigiani,Parmigiani,66,3000,100,66,105,0,34980
+47,LVMH,Dior,65,6000,90,63,100,0,16586
+48,Swatch,Glashutte Original,55,16000,90,53,84,0,5263
+49,Bell & Ross,Bell & Ross,50,13600,90,48,77,0,5629
+50,Greubel Forsey,Greubel Forsey,50,255,100,50,80,0,313725
+51,end_group,end_brand,36127,15900605,,31986,49474,98.9,
